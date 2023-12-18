@@ -16,7 +16,7 @@ This API allows API clients to verify the matching of a number of attributes rel
 
 * To prevent fraud, wrong or imprecise information, and/or facilitate the onboarding of a mobile phone user to a 3rd party service.
 
-The following figure is the example high-level flows of this API.  
+The following figure is the generic high-level flows of this API.  
 
 <img width="848" alt="KYC_Match_flow" src="https://github.com/ToshiWakayama-KDDI/KnowYourCustomer-Toshi/assets/53090722/2693d4b0-e85e-4f79-b554-ba694620d846">
 
