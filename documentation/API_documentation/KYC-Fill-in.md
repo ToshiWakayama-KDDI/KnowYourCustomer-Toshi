@@ -14,7 +14,7 @@ This API allows API clients to request for API provider / MNO to provide informa
 
 * To fill-in the user personal data during the digital registration of an account to a 3rd party service.
 
-The following figure is the example high-level flows of this API.  
+The following figure is the generic high-level flows of this API.  
 
 <img width="854" alt="KYC_Fill-in_flow" src="https://github.com/ToshiWakayama-KDDI/KnowYourCustomer-Toshi/assets/53090722/a7d6c0d7-54cf-45f8-af9f-e6179400401e">
 
